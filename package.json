@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://github.com/olympum/ant-cycling-power.git"
+    "url": "git+ssh://github.com/matthewl1234/ant-cycling-power.git"
   },
   "keywords": [
     "ANT+",
@@ -19,10 +19,10 @@
   "author": "Bruno Fernandez-Ruiz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/olympum/ant-cycling-power/issues"
+    "url": "https://github.com/matthewl1234/ant-cycling-power/issues"
   },
-  "homepage": "https://github.com/olympum/ant-cycling-power#readme",
+  "homepage": "https://github.com/matthewl1234/ant-cycling-power#readme",
   "dependencies": {
-    "ant-plus": "olympum/ant-plus"
+    "ant-plus": "matthewl1234/ant-plus"
   }
 }
